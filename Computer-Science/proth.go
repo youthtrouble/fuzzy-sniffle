@@ -5,7 +5,6 @@ import (
 	"os"
 	"flag"
 	"strconv"
-	"math/big"
 )
 
 func isPower(num int) bool {
@@ -28,6 +27,16 @@ func isProthNumber(n int) bool {
 	return false
 }
 
+func isPrime(value int) bool {
+
+	for i := 2; i <= value/2; i++ {
+		if value % i == 0 {
+			return false
+		}
+	}
+	return true 
+}
+
 func main() {
 	flag.Parse()
 	 args := flag.Args()
@@ -45,7 +54,7 @@ func main() {
 	}
 
 	if (isProthNumber(n - 1)) {
-	if big.NewInt(n).ProbablyPrime(0) {
+	if isPrime(n) {
 		fmt.Println(n, "is a Proth Prime")
 	} else {
 		fmt.Println(n, "is a Proth Number but not a Proth Prime")

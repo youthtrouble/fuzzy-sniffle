@@ -1,6 +1,6 @@
 # Bitcoin Stock-to-Flow(S2F) Model
 
-The fully grasp the Stock-to-flow model of anything, the first thing to do is to understand what are stock and flow are and how they affect the psrticular case, in this case, Bitcoin.
+To fully grasp the Stock-to-flow model of anything, the first thing to do is to understand what are stock and flow are and how they affect the psrticular case, in this case, Bitcoin.
 
 In simple terms, 
  - Stock is the size of existing reserves or stockpiles of a commodity.
