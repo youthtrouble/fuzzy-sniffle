@@ -22,5 +22,7 @@ What PlanB defines as “scarcity” is not scarcity by definition. PlanB uses �
 Intuitively, the stock-to-flow model makes sense once you conduct a simple thought experiment. 
 
 Using Gold as a case study once again, if the flow of gold suddenly slowed down. Instead of 3,000 tons of gold being mined annually, about only 1,000 tons of gold is mined, the price if Gold is expected to skyrocket. This would be a great way to prove the correlation between the Stock-to-Flow ratio of Gold and it's price.
-Surprisingly, SF has no direct relationship with gold’s value over the last 115 years, as can be seen in the scatter plot below. Gold’s market capitalization held valuations between ~$60 billion to ~$9 trillion, all at the same SF value of 60. A range of $8 trillion is not very indicative of explanatory power and lends itself to the obvious conclusion that other factors drive gold’s USD valuation. 
+Surprisingly, SF has no direct relationship with gold’s value over the last 115 years, as can be seen in the scatter plot below. 
 ![Gold market Cap](gold-market-cap-to-sf.webp)
+
+Gold’s market capitalization held valuations between ~$60 billion to ~$9 trillion, all at the same SF value of 60. A range of $8 trillion is not very indicative of explanatory power and lends itself to the obvious conclusion that other factors drive gold’s USD valuation. 
