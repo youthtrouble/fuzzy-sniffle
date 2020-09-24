@@ -29,13 +29,13 @@ func isProthNumber(n int) bool {
 }
 
 func main() {
-	 flag.Parse()
+	flag.Parse()
 	 args := flag.Args()
 
-	 if len(args) < 1 {   
-		fmt.Println("Please specify a number")  
-		os.Exit(1)                              
-	  }
+	if len(args) < 1 {
+	fmt.Println("Please specify a number")  
+	os.Exit(1)  
+	}
 
 	n, err := strconv.Atoi(args[0])
     if err != nil {
@@ -44,13 +44,13 @@ func main() {
 		os.Exit(2)
 	}
 
-	 if (isProthNumber(n - 1)) {
-		if big.NewInt(n).ProbablyPrime(0) {
-			fmt.Println(n, "is a Proth Prime")
-		} else {
-			fmt.Println(n, "is a Proth Number but not a Proth Prime")
-		}
-	 } else {
-		 fmt.Println("No, the value is not a Proth Number")
-	 }
+	if (isProthNumber(n - 1)) {
+	if big.NewInt(n).ProbablyPrime(0) {
+		fmt.Println(n, "is a Proth Prime")
+	} else {
+		fmt.Println(n, "is a Proth Number but not a Proth Prime")
+	}
+	} else {
+		fmt.Println("No, the value is not a Proth Number")
+	}
 }
