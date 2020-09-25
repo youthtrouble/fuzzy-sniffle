@@ -22,5 +22,5 @@ My name is Deji, a final year student of the Federal University of Technology, A
    - `go run Computer-Science/proth.go 25`
 
 ### Math
- - [Here] , 
+ - [Here](https://github.com/youthtrouble/fuzzy-sniffle/blob/master/Math/Math.pdf), is the solution to the math problem solving for the minimum value of a positive real number, y. 
 
