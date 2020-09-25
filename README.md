@@ -1,6 +1,6 @@
 # Hello,
 
-My name is Deji, a final year student of the Federal University of Technology, Akure.I love to read(on purpose) and I also write code. I would love this opportunity.
+My name is Deji, a final year student of the Federal University of Technology, Akure, just about to graduate.I love to read(on purpose) and I also write code. I would love this opportunity.
 
 ## Here are links to my answers to the application questions 👇
 
