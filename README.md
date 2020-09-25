@@ -12,12 +12,12 @@ My name is Deji, a final year student of the Federal University of Technology, A
 ### Computer Science
  - [Here](https://github.com/youthtrouble/fuzzy-sniffle/blob/master/Computer-Science/Computer-Science.md), I explain why it is a bad idea to use the recursion method rather than the iteration method to calculate the Fibonacci of a number.
 
- - [Here] is a program to determine whether a number(integer) is;
+ - [Here](https://github.com/youthtrouble/fuzzy-sniffle/blob/master/Computer-Science/proth.go) is a program to determine whether a number(integer) is;
   - A Proth prime.
   - A Proth number but not a Proth prime.
   - Not a Proth  umber at all.
  
-  #### Steps to test, say for a number 25(you need to hab=ve go installed on your machine).
+  #### Steps to test, say for a number 25 (you need to have go installed on your machine).
    - `git clone https://github.com/youthtrouble/fuzzy-sniffle`
    - `go run Computer-Science/proth.go 25`
 
