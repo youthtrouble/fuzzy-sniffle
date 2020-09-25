@@ -31,3 +31,5 @@ Gold’s market capitalization held valuations between ~$60 billion to ~$9 trill
 
 # Black Scholes Call  Price
 
+The Workings that provide the answer to the Black-Scholes call price as $2 can be found [here].
+
